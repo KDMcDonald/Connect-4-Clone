@@ -12,4 +12,4 @@ AUTHORS: Kain McDonald, James McCarter, Samuel Ruiz
 USER INSTRUCTIONS: Follow prompts to get started. The idea is to get 4 in a row either 
 		   vertical, horizontal, or diagonally.
 
-This was created as a group project for a Computer Science class in University.
+This was created as a group project for a freshman Computer Science class in University.
